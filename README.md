@@ -51,7 +51,7 @@ FROM [dbo].[RetailsalesProj];
 - **Customer Count**: Find out how many unique customers are in the dataset.
 - **Category Count**: Identify all unique product categories in the dataset.
 - **Remove Duplictates**: Find and delete duplictates records in the dataset.
-- **Dropping Null/Blank Value**: Check for any null values in the dataset and delete records with missing data.
+- **Dropping Null/Blank Values**: Check for any null values in the dataset and delete records with missing data.
 
 ```sql
 SELECT COUNT(*) FROM [dbo].[RetailsalesProj];
